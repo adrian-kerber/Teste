@@ -1,19 +1,35 @@
-# Teste Técnico – Front-end (React)
+# 🚀 Teste Técnico – Front-end (React + Vite)
 
-Este teste tem como objetivo avaliar sua capacidade de estruturar um componente React funcional, organizado e legível, utilizando apenas conceitos essenciais da biblioteca.
+Bem-vindo ao teste técnico.  
+O objetivo aqui é avaliar sua capacidade de desenvolver um componente funcional utilizando **React**, com boa organização de código, clareza e domínio das ferramentas básicas da stack moderna.
+
+Este teste foi feito para simular um cenário real que você encontraria no dia a dia de um projeto.
 
 ---
 
-## 📌 Objetivo
+## 📌 Objetivo Principal
 
-Criar um componente React simples que permita filtrar uma lista de produtos em tempo real, simulando uma funcionalidade comum em sistemas reais.
+Criar um componente React chamado **ProductList** que permita:
+
+- Exibir um campo de busca
+- Filtrar uma lista fixa de produtos em tempo real
+- Renderizar os resultados de forma simples e legível
+
+O foco é avaliar **boas práticas**, **clareza**, **razoamento lógico** e **conhecimento real de React**.
 
 ---
 
 ## 🧩 Instruções Gerais
 
-- Utilize **React com Hooks**.
-- Não utilize bibliotecas externas para lógica (ex.: lodash).
-- Estilização não é obrigatória, mas permitida.
-- Foque em clareza, boas práticas e funcionamento.
-- Tempo sugerido: **1 hora**.
+- Utilize **React com Hooks** (`useState`, etc).
+- Não utilize bibliotecas externas para lógica.
+- Não é necessário estilizar — mas você pode aplicar estilo básico se quiser.
+- Utilize o arquivo **App.jsx** ou crie o componente em `/src/components/ProductList.jsx`.
+- Não altere os nomes das variáveis e propriedades da lista.
+- Tempo estimado: **Até 1 hora**.
+
+---
+
+## 📦 Lista de Produtos (obrigatória)
+
+Utilize a lista de produtos presente neste repositório dentro do componente:
