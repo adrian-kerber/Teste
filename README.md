@@ -32,4 +32,35 @@ O foco é avaliar **boas práticas**, **clareza**, **razoamento lógico** e **co
 
 ## 📦 Lista de Produtos (obrigatória)
 
-Utilize a lista de produtos presente neste repositório dentro do componente:
+Utilize a lista de produtos presente neste repositório dentro do componente.
+
+---
+
+## 🛠️ Tarefa Detalhada
+
+Crie o componente ProductList com:
+1. Campo de entrada (input)
+Controlado via useState
+Deve atualizar o estado conforme o usuário digita
+
+3. Filtro em tempo real
+Deve filtrar pelo campo name
+Deve ignorar maiúsculas/minúsculas (toLowerCase())
+
+5. Renderização da lista filtrada
+Cada item deve exibir:
+Nome do produto
+Preço formatado
+
+---
+
+## 🏁 Finalização
+
+Este teste é curto e direto.
+O objetivo não é exigir nada avançado — e sim ver como você:
+pensa
+organiza
+escreve
+resolve problemas simples
+usa React de verdade
+Boa sorte!
